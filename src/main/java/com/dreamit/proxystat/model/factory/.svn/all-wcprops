@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/factory
+END
+IPassFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/205/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IPassFactory.java
+END
+IFlatTypeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/517/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IFlatTypeFactory.java
+END
+IOptionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IOptionFactory.java
+END
+IPartnerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IPartnerFactory.java
+END
+IPriceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/497/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IPriceFactory.java
+END
+ITrackFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/161/proxystat/src/main/java/com/dreamit/proxystat/model/factory/ITrackFactory.java
+END
+IFlatFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/592/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IFlatFactory.java
+END
+ICourseFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/523/proxystat/src/main/java/com/dreamit/proxystat/model/factory/ICourseFactory.java
+END
+IEquipmentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/269/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IEquipmentFactory.java
+END
+ICategoryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/252/proxystat/src/main/java/com/dreamit/proxystat/model/factory/ICategoryFactory.java
+END
+IPeriodFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/459/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IPeriodFactory.java
+END
+IPartnerUserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/592/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IPartnerUserFactory.java
+END
+IServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/254/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IServiceFactory.java
+END
+ISeasonFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/436/proxystat/src/main/java/com/dreamit/proxystat/model/factory/ISeasonFactory.java
+END
+IUserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/592/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IUserFactory.java
+END
+IMessageMailFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/108/proxystat/src/main/java/com/dreamit/proxystat/model/factory/IMessageMailFactory.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/614/proxystat/src/test/java/com/dreamit/proxystat/model/service
+END
+IAdministrationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/609/proxystat/src/test/java/com/dreamit/proxystat/model/service/IAdministrationServiceTest.java
+END
+IAdministrationReportingServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/495/proxystat/src/test/java/com/dreamit/proxystat/model/service/IAdministrationReportingServiceTest.java
+END
+ICustomerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/614/proxystat/src/test/java/com/dreamit/proxystat/model/service/ICustomerServiceTest.java
+END
+IAdministrationTrainingPartnerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/524/proxystat/src/test/java/com/dreamit/proxystat/model/service/IAdministrationTrainingPartnerServiceTest.java
+END
+IServiceSendMailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/113/proxystat/src/test/java/com/dreamit/proxystat/model/service/IServiceSendMailTest.java
+END
+IAdministrationSportPartnerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/455/proxystat/src/test/java/com/dreamit/proxystat/model/service/IAdministrationSportPartnerServiceTest.java
+END
+IBookingServiceIsolationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/404/proxystat/src/test/java/com/dreamit/proxystat/model/service/IBookingServiceIsolationTest.java
+END
+IAdministrationPassMechanicPartnerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/461/proxystat/src/test/java/com/dreamit/proxystat/model/service/IAdministrationPassMechanicPartnerServiceTest.java
+END
+IAdministrationPassMechanicPartnerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/277/proxystat/src/test/java/com/dreamit/proxystat/model/service/IAdministrationPassMechanicPartnerServiceImpl.java
+END
+IBookingServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/522/proxystat/src/test/java/com/dreamit/proxystat/model/service/IBookingServiceTest.java
+END
+IAdministrationCommonServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/401/proxystat/src/test/java/com/dreamit/proxystat/model/service/IAdministrationCommonServiceTest.java
+END
+IRatingServiceIsolationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/423/proxystat/src/test/java/com/dreamit/proxystat/model/service/IRatingServiceIsolationTest.java
+END
+IRatingServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/602/proxystat/src/test/java/com/dreamit/proxystat/model/service/IRatingServiceTest.java
+END

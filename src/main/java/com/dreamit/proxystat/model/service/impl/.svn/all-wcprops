@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/614/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl
+END
+AdministrationPassMechanicPartnerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/547/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/AdministrationPassMechanicPartnerServiceImpl.java
+END
+AdministrationCommonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/523/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/AdministrationCommonServiceImpl.java
+END
+BookingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/560/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/BookingServiceImpl.java
+END
+RatingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/610/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/RatingServiceImpl.java
+END
+CustomerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/614/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/CustomerServiceImpl.java
+END
+AdministrationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/AdministrationServiceImpl.java
+END
+AdministrationReportingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/556/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/AdministrationReportingServiceImpl.java
+END
+AdministrationTrainingPartnerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/523/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/AdministrationTrainingPartnerServiceImpl.java
+END
+ServiceSendMailImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/543/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/ServiceSendMailImpl.java
+END
+AdministrationSportPartnerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/314/proxystat/src/main/java/com/dreamit/proxystat/model/service/impl/AdministrationSportPartnerServiceImpl.java
+END

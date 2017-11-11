@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/615/proxystat/src/main/resources
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/615/proxystat/src/main/resources/messages_fr.properties
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/22/proxystat/src/main/resources/db.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/22/proxystat/src/main/resources/log4j.xml
+END
+messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/615/proxystat/src/main/resources/messages_en.properties
+END
+smtp.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/117/proxystat/src/main/resources/smtp.properties
+END

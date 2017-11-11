@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/604/proxystat/src/main/java/com/dreamit/proxystat/model/service
+END
+IRatingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/423/proxystat/src/main/java/com/dreamit/proxystat/model/service/IRatingService.java
+END
+IAdministrationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/service/IAdministrationService.java
+END
+IAdministrationReportingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/495/proxystat/src/main/java/com/dreamit/proxystat/model/service/IAdministrationReportingService.java
+END
+ICustomerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/604/proxystat/src/main/java/com/dreamit/proxystat/model/service/ICustomerService.java
+END
+IAdministrationTrainingPartnerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/523/proxystat/src/main/java/com/dreamit/proxystat/model/service/IAdministrationTrainingPartnerService.java
+END
+IServiceSendMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/308/proxystat/src/main/java/com/dreamit/proxystat/model/service/IServiceSendMail.java
+END
+IAdministrationSportPartnerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/304/proxystat/src/main/java/com/dreamit/proxystat/model/service/IAdministrationSportPartnerService.java
+END
+IAdministrationPassMechanicPartnerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/518/proxystat/src/main/java/com/dreamit/proxystat/model/service/IAdministrationPassMechanicPartnerService.java
+END
+IBookingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/522/proxystat/src/main/java/com/dreamit/proxystat/model/service/IBookingService.java
+END
+IAdministrationCommonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/523/proxystat/src/main/java/com/dreamit/proxystat/model/service/IAdministrationCommonService.java
+END

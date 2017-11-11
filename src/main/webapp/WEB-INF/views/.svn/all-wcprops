@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/605/proxystat/src/main/webapp/WEB-INF/views
+END
+adminPartnerMechanicAddTrack.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/590/proxystat/src/main/webapp/WEB-INF/views/adminPartnerMechanicAddTrack.jsp
+END
+adminRatings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminRatings.jsp
+END
+adminPartnerMechanicListing.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/590/proxystat/src/main/webapp/WEB-INF/views/adminPartnerMechanicListing.jsp
+END
+adminAddOption.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminAddOption.jsp
+END
+adminPartnerMechanicModifyPass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/590/proxystat/src/main/webapp/WEB-INF/views/adminPartnerMechanicModifyPass.jsp
+END
+adminFlat.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminFlat.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/587/proxystat/src/main/webapp/WEB-INF/views/login.jsp
+END
+adminPartnerTrainingAddCourse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/587/proxystat/src/main/webapp/WEB-INF/views/adminPartnerTrainingAddCourse.jsp
+END
+adminPartnerMechanicHomepage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/590/proxystat/src/main/webapp/WEB-INF/views/adminPartnerMechanicHomepage.jsp
+END
+adminAddFlat.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminAddFlat.jsp
+END
+adminPartnerTrainingListCourse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/587/proxystat/src/main/webapp/WEB-INF/views/adminPartnerTrainingListCourse.jsp
+END
+bookingPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/595/proxystat/src/main/webapp/WEB-INF/views/bookingPayment.jsp
+END
+adminCategory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminCategory.jsp
+END
+adminPeriod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminPeriod.jsp
+END
+adminPartnerMechanicListTrack.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/590/proxystat/src/main/webapp/WEB-INF/views/adminPartnerMechanicListTrack.jsp
+END
+adminAddCategory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminAddCategory.jsp
+END
+adminSportHomepage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminSportHomepage.jsp
+END
+adminAddPeriod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminAddPeriod.jsp
+END
+adminSportReturnList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminSportReturnList.jsp
+END
+adminPartnerMechanicAddPass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/590/proxystat/src/main/webapp/WEB-INF/views/adminPartnerMechanicAddPass.jsp
+END
+commentsInput.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/587/proxystat/src/main/webapp/WEB-INF/views/commentsInput.jsp
+END
+adminSportOffer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminSportOffer.jsp
+END
+adminPartnerMechanicListTrackAndPass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/590/proxystat/src/main/webapp/WEB-INF/views/adminPartnerMechanicListTrackAndPass.jsp
+END
+bookingAppartment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/589/proxystat/src/main/webapp/WEB-INF/views/bookingAppartment.jsp
+END
+adminPartner.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminPartner.jsp
+END
+adminAddSportOffer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminAddSportOffer.jsp
+END
+adminPrice.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/517/proxystat/src/main/webapp/WEB-INF/views/adminPrice.jsp
+END
+adminUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/605/proxystat/src/main/webapp/WEB-INF/views/adminUser.jsp
+END
+commentsQuotations.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/587/proxystat/src/main/webapp/WEB-INF/views/commentsQuotations.jsp
+END
+bookingHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/597/proxystat/src/main/webapp/WEB-INF/views/bookingHistory.jsp
+END
+adminAddUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/605/proxystat/src/main/webapp/WEB-INF/views/adminAddUser.jsp
+END
+adminBookingOfCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/484/proxystat/src/main/webapp/WEB-INF/views/adminBookingOfCustomer.jsp
+END
+workflow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/587/proxystat/src/main/webapp/WEB-INF/views/workflow.jsp
+END
+serviceRatings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/587/proxystat/src/main/webapp/WEB-INF/views/serviceRatings.jsp
+END
+adminPartnerTrainingHomepage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/587/proxystat/src/main/webapp/WEB-INF/views/adminPartnerTrainingHomepage.jsp
+END
+adminFlatType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminFlatType.jsp
+END
+adminAddFlatType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminAddFlatType.jsp
+END
+adminResearchCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/519/proxystat/src/main/webapp/WEB-INF/views/adminResearchCustomer.jsp
+END
+adminPartnerTrainingModifyCourse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/587/proxystat/src/main/webapp/WEB-INF/views/adminPartnerTrainingModifyCourse.jsp
+END
+adminPartnerMechanicListPass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/590/proxystat/src/main/webapp/WEB-INF/views/adminPartnerMechanicListPass.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/605/proxystat/src/main/webapp/WEB-INF/views/header.jsp
+END
+bookingSummary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/594/proxystat/src/main/webapp/WEB-INF/views/bookingSummary.jsp
+END
+createAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/579/proxystat/src/main/webapp/WEB-INF/views/createAccount.jsp
+END
+adminSeason.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminSeason.jsp
+END
+bookingEquipmentAndPass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/593/proxystat/src/main/webapp/WEB-INF/views/bookingEquipmentAndPass.jsp
+END
+adminPartnerMechanicModifyTrack.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/590/proxystat/src/main/webapp/WEB-INF/views/adminPartnerMechanicModifyTrack.jsp
+END
+adminAddSeason.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminAddSeason.jsp
+END
+adminAddPartner.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminAddPartner.jsp
+END
+adminAddPrice.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/497/proxystat/src/main/webapp/WEB-INF/views/adminAddPrice.jsp
+END
+bookingCongratulation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/596/proxystat/src/main/webapp/WEB-INF/views/bookingCongratulation.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/584/proxystat/src/main/webapp/WEB-INF/views/footer.jsp
+END
+adminHomepage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminHomepage.jsp
+END
+adminSportListing.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminSportListing.jsp
+END
+adminReporting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/591/proxystat/src/main/webapp/WEB-INF/views/adminReporting.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/577/proxystat/src/main/webapp/WEB-INF/views/home.jsp
+END
+contact.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/577/proxystat/src/main/webapp/WEB-INF/views/contact.jsp
+END
+head.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/493/proxystat/src/main/webapp/WEB-INF/views/head.jsp
+END
+welcome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/572/proxystat/src/main/webapp/WEB-INF/views/welcome.jsp
+END
+adminSportReturnBooking.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminSportReturnBooking.jsp
+END
+adminOption.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/599/proxystat/src/main/webapp/WEB-INF/views/adminOption.jsp
+END

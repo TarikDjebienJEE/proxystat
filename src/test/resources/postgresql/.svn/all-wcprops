@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/600/proxystat/src/test/resources/postgresql
+END
+test-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/585/proxystat/src/test/resources/postgresql/test-data.sql
+END
+data_demo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/600/proxystat/src/test/resources/postgresql/data_demo.sql
+END

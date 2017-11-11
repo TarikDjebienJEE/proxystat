@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities
+END
+Booking.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Booking.html
+END
+Role.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Role.html
+END
+Adress.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Adress.html
+END
+PeriodService.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/PeriodService.html
+END
+SportPartner.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/SportPartner.html
+END
+FlatType.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/FlatType.html
+END
+Pass.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Pass.html
+END
+Lang.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Lang.html
+END
+User.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/User.html
+END
+Track.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Track.html
+END
+Price.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Price.html
+END
+MechanicPartner.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/MechanicPartner.html
+END
+ServiceLang.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/ServiceLang.html
+END
+Period.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Period.html
+END
+Customer.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Customer.html
+END
+StandardPeriod.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/StandardPeriod.html
+END
+Flat.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Flat.html
+END
+HolidayPeriod.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/HolidayPeriod.html
+END
+Guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Guest.html
+END
+GuestEquipment.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/GuestEquipment.html
+END
+Option.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Option.html
+END
+Service.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Service.html
+END
+Duration.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Duration.html
+END
+PartnerUser.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/PartnerUser.html
+END
+Equipment.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Equipment.html
+END
+Partner.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Partner.html
+END
+Payment.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Payment.html
+END
+Season.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Season.html
+END
+entities.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/entities.html
+END
+PaymentCredit.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/PaymentCredit.html
+END
+Category.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Category.html
+END
+Rating.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/Rating.html
+END
+AgeCategory.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/50/proxystat/serverConfig/entities/com/dreamit/proxystat/model/entities/AgeCategory.html
+END

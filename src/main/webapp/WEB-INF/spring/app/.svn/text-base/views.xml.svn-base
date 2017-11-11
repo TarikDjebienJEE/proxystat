@@ -1,0 +1,169 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+	<bean id="basePage" abstract="true"
+		class="org.springframework.web.servlet.view.InternalResourceView" />
+		
+	<bean id="HOME" parent="basePage">
+		<property name="url" value="/WEB-INF/views/home.jsp" />
+	</bean>
+	<bean id="CONTACT" parent="basePage">
+		<property name="url" value="/WEB-INF/views/contact.jsp" />
+	</bean>
+	<bean id="CREATEACCOUNT" parent="basePage">
+		<property name="url" value="/WEB-INF/views/createAccount.jsp" />
+	</bean>	
+	<bean id="BOOKING_HISTORY" parent="basePage">
+		<property name="url" value="/WEB-INF/views/bookingHistory.jsp" />
+	</bean>
+	<bean id="FEEDBACK" parent="basePage">
+		<property name="url" value="/WEB-INF/views/commentsQuotations.jsp" />
+	</bean>
+	<bean id="SERVICE_RATING" parent="basePage">
+		<property name="url" value="/WEB-INF/views/serviceRatings.jsp" />
+	</bean>
+	
+	<bean id="WORKFLOW" parent="basePage">
+		<property name="url" value="/WEB-INF/views/workflow.jsp" />
+	</bean>	
+	
+	<bean id="ADMIN_HOME" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminHomepage.jsp" />
+	</bean>	
+	<bean id="ADMIN_CRUD_SEASON" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminSeason.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_SEASON_ADD" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddSeason.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_PERIOD" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPeriod.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_PERIOD_ADD" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddPeriod.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_PRICE" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPrice.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_PRICE_ADD" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddPrice.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_FLAT" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminFlat.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_FLAT_ADD" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddFlat.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_FLAT_TYPE" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminFlatType.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_FLAT_TYPE_ADD" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddFlatType.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_OPTION" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminOption.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_OPTION_ADD" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddOption.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_PARTNER" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartner.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_PARTNER_ADD" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddPartner.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_USER" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminUser.jsp" />
+	</bean>
+	<bean id="ADMIN_CRUD_USER_ADD" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddUser.jsp" />
+	</bean>
+	<bean id="ADMIN_RATING" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminRatings.jsp" />
+	</bean>	
+	
+	<bean id="ADMINMECHANICPARTNER" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerMechanicListTrackAndPass.jsp" />
+	</bean>
+	<bean id="ADMINMECHANICPARTNER_LIST_TRACK" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerMechanicListTrack.jsp" />
+	</bean>
+	<bean id="ADMINMECHANICPARTNER_LIST_PASS" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerMechanicListPass.jsp" />
+	</bean>
+	<bean id="ADMINMECHANICPARTNER_ADD_TRACK" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerMechanicAddTrack.jsp" />
+	</bean>
+	<bean id="ADMINMECHANICPARTNER_MODIFY_TRACK" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerMechanicModifyTrack.jsp" />
+	</bean>
+	<bean id="ADMINMECHANICPARTNER_ADD_PASS" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerMechanicAddPass.jsp" />
+	</bean>
+	<bean id="ADMINMECHANICPARTNER_MODIFY_PASS" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerMechanicModifyPass.jsp" />
+	</bean>
+	<bean id="ADMINMECHANICPARTNER_LISTING" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerMechanicListing.jsp" />
+	</bean>
+	<bean id="ADMINMECHANICPARTNER_HOME" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerMechanicHomepage.jsp" />
+	</bean>
+	
+	
+	
+	<bean id="ADMINTRAININGPARTNER_HOME" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerTrainingHomepage.jsp" />
+	</bean>
+	<bean id="ADMINTRAININGPARTNER_LIST_COURSE" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerTrainingListCourse.jsp" />
+	</bean>
+	<bean id="ADMINTRAININGPARTNER_ADD_COURSE" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerTrainingAddCourse.jsp" />
+	</bean>
+	<bean id="ADMINTRAININGPARTNER_MODIFY_COURSE" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminPartnerTrainingModifyCourse.jsp" />
+	</bean>
+	
+	
+	
+	<bean id="ADMIN_SPORT_HOME" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminSportHomepage.jsp" />
+	</bean>
+	<bean id="ADMIN_SPORT_CATEGORY" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminCategory.jsp" />
+	</bean>
+	<bean id="ADMIN_SPORT_CATEGORY_CREATE" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddCategory.jsp" />
+	</bean>
+	<bean id="ADMIN_SPORT_OFFER" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminSportOffer.jsp" />
+	</bean>
+	<bean id="ADMIN_SPORT_OFFER_CREATE" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminAddSportOffer.jsp" />
+	</bean>
+	<bean id="ADMIN_SPORT_LISTING" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminSportListing.jsp" />
+	</bean>
+	<bean id="ADMIN_SPORT_RETURN_LIST" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminSportReturnList.jsp" />
+	</bean>
+	<bean id="ADMIN_SPORT_RETURN_BOOKING" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminSportReturnBooking.jsp" />
+	</bean>
+	
+	<bean id="ADMIN_STATISTICS_HOME" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminReporting.jsp" />
+	</bean>	
+	
+	<bean id="ADMIN_RESEARCHCUSTOMER" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminResearchCustomer.jsp" />
+	</bean>	
+	
+	<bean id="ADMIN_LISTBOOKINGCUSTOMER" parent="basePage">
+		<property name="url" value="/WEB-INF/views/adminBookingOfCustomer.jsp" />
+	</bean>	
+	
+</beans>

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/588/proxystat/src/test/java/com/dreamit/proxystat/integration
+END
+IntegrationTestContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/335/proxystat/src/test/java/com/dreamit/proxystat/integration/IntegrationTestContact.java
+END
+IntegrationTestAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/439/proxystat/src/test/java/com/dreamit/proxystat/integration/IntegrationTestAdmin.java
+END
+IntegrationTestReporting.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/511/proxystat/src/test/java/com/dreamit/proxystat/integration/IntegrationTestReporting.java
+END
+IntegrationTestPartnerMechanic.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/518/proxystat/src/test/java/com/dreamit/proxystat/integration/IntegrationTestPartnerMechanic.java
+END
+IntegrationTestCustomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/413/proxystat/src/test/java/com/dreamit/proxystat/integration/IntegrationTestCustomer.java
+END
+IntegrationTestHomepage.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/52/proxystat/src/test/java/com/dreamit/proxystat/integration/IntegrationTestHomepage.java
+END
+IntegrationTestRating.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/588/proxystat/src/test/java/com/dreamit/proxystat/integration/IntegrationTestRating.java
+END
+IntegrationTestPartnerSport.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/335/proxystat/src/test/java/com/dreamit/proxystat/integration/IntegrationTestPartnerSport.java
+END
+IntegrationTestAdminResearchCustomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/521/proxystat/src/test/java/com/dreamit/proxystat/integration/IntegrationTestAdminResearchCustomer.java
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/entities
+END
+Lang.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Lang.java
+END
+Track.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Track.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/41/proxystat/src/main/java/com/dreamit/proxystat/model/entities/User.java
+END
+Price.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Price.java
+END
+MechanicPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/entities/MechanicPartner.java
+END
+ServiceLang.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/197/proxystat/src/main/java/com/dreamit/proxystat/model/entities/ServiceLang.java
+END
+Period.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/459/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Period.java
+END
+StandardPeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/459/proxystat/src/main/java/com/dreamit/proxystat/model/entities/StandardPeriod.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/535/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Customer.java
+END
+Flat.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/196/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Flat.java
+END
+HolidayPeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/459/proxystat/src/main/java/com/dreamit/proxystat/model/entities/HolidayPeriod.java
+END
+Guest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/518/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Guest.java
+END
+GuestEquipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/304/proxystat/src/main/java/com/dreamit/proxystat/model/entities/GuestEquipment.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/493/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Service.java
+END
+Option.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Option.java
+END
+Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Duration.java
+END
+PartnerUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/240/proxystat/src/main/java/com/dreamit/proxystat/model/entities/PartnerUser.java
+END
+TrainingPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/entities/TrainingPartner.java
+END
+Equipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/197/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Equipment.java
+END
+Partner.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/197/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Partner.java
+END
+Payment.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/197/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Payment.java
+END
+Season.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Season.java
+END
+PaymentCredit.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/entities/PaymentCredit.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Category.java
+END
+Rating.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/423/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Rating.java
+END
+AgeCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/proxystat/src/main/java/com/dreamit/proxystat/model/entities/AgeCategory.java
+END
+Booking.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/536/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Booking.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/41/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Role.java
+END
+Adress.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Adress.java
+END
+TrainingCourse.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/496/proxystat/src/main/java/com/dreamit/proxystat/model/entities/TrainingCourse.java
+END
+PeriodService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/538/proxystat/src/main/java/com/dreamit/proxystat/model/entities/PeriodService.java
+END
+SportPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/entities/SportPartner.java
+END
+FlatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/490/proxystat/src/main/java/com/dreamit/proxystat/model/entities/FlatType.java
+END
+Pass.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/492/proxystat/src/main/java/com/dreamit/proxystat/model/entities/Pass.java
+END

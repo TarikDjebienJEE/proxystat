@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/570/proxystat/src/test/java/com/dreamit/proxystat/model/dao
+END
+IAgeCategoryDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/495/proxystat/src/test/java/com/dreamit/proxystat/model/dao/IAgeCategoryDAOTest.java
+END
+IUserDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/398/proxystat/src/test/java/com/dreamit/proxystat/model/dao/IUserDAOTest.java
+END
+IRatingDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/415/proxystat/src/test/java/com/dreamit/proxystat/model/dao/IRatingDAOTest.java
+END
+ICustomerDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/570/proxystat/src/test/java/com/dreamit/proxystat/model/dao/ICustomerDAOTest.java
+END
+IMechanicPartnerDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/565/proxystat/src/test/java/com/dreamit/proxystat/model/dao/IMechanicPartnerDAOTest.java
+END
+ISportPartnerDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/294/proxystat/src/test/java/com/dreamit/proxystat/model/dao/ISportPartnerDAOTest.java
+END
+IBookingDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/494/proxystat/src/test/java/com/dreamit/proxystat/model/dao/IBookingDAOTest.java
+END
+GenericJpaDataAccessObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/92/proxystat/src/test/java/com/dreamit/proxystat/model/dao/GenericJpaDataAccessObjectTest.java
+END
+IFlatDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/487/proxystat/src/test/java/com/dreamit/proxystat/model/dao/IFlatDAOTest.java
+END

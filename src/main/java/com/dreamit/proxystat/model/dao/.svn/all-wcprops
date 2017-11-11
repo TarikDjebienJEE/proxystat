@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/564/proxystat/src/main/java/com/dreamit/proxystat/model/dao
+END
+IFlatDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/487/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IFlatDAO.java
+END
+ICategoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/ICategoryDAO.java
+END
+IPeriodDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IPeriodDAO.java
+END
+IPartnerUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IPartnerUserDAO.java
+END
+IPeriodServiceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IPeriodServiceDAO.java
+END
+IServiceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IServiceDAO.java
+END
+IHolidayPeriodDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IHolidayPeriodDAO.java
+END
+IUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/34/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IUserDAO.java
+END
+IServiceLangDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IServiceLangDAO.java
+END
+IPassDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IPassDAO.java
+END
+IFlatTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IFlatTypeDAO.java
+END
+IPaymentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IPaymentDAO.java
+END
+IDurationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IDurationDAO.java
+END
+ITrainingCourseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/496/proxystat/src/main/java/com/dreamit/proxystat/model/dao/ITrainingCourseDAO.java
+END
+IPartnerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IPartnerDAO.java
+END
+IGuestEquipmentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/306/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IGuestEquipmentDAO.java
+END
+IPriceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IPriceDAO.java
+END
+ITrackDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/ITrackDAO.java
+END
+IEquipmentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IEquipmentDAO.java
+END
+ITrainingPartnerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/496/proxystat/src/main/java/com/dreamit/proxystat/model/dao/ITrainingPartnerDAO.java
+END
+IRatingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/414/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IRatingDAO.java
+END
+IStandardPeriodDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IStandardPeriodDAO.java
+END
+ICustomerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/504/proxystat/src/main/java/com/dreamit/proxystat/model/dao/ICustomerDAO.java
+END
+ISeasonDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/ISeasonDAO.java
+END
+IGuestDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IGuestDAO.java
+END
+IBookingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/494/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IBookingDAO.java
+END
+IAgeCategoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/495/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IAgeCategoryDAO.java
+END
+IPaymentCreditDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IPaymentCreditDAO.java
+END
+ILangDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/ILangDAO.java
+END
+IMechanicPartnerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/383/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IMechanicPartnerDAO.java
+END
+ISportPartnerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/280/proxystat/src/main/java/com/dreamit/proxystat/model/dao/ISportPartnerDAO.java
+END
+IOptionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IOptionDAO.java
+END
+IRoleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/34/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IRoleDAO.java
+END
+IAdressDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/43/proxystat/src/main/java/com/dreamit/proxystat/model/dao/IAdressDAO.java
+END

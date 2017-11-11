@@ -1,0 +1,96 @@
+/* 
+ * remove auto numbering of ol elements 
+ */
+ol.bookStatus {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* 
+ * align li elements horizontally
+ */
+ol.bookStatus li {
+    display: inline-block;
+    text-align: center;
+    line-height: 3em;
+}
+
+/* 
+ * expands steps for the whole screen inside div 
+ */
+ol.bookStatus[data-progtrckr-steps="2"] li { width: 49%; }
+ol.bookStatus[data-progtrckr-steps="3"] li { width: 33%; }
+ol.bookStatus[data-progtrckr-steps="4"] li { width: 24%; }
+ol.bookStatus[data-progtrckr-steps="5"] li { width: 19%; }
+
+/* 
+ * colors 
+ */
+ol.bookStatus li.bookStatus-done {
+    color: black;
+    border-bottom: 4px solid blue;
+}
+ol.bookStatus li.bookStatus-todo {
+    color: silver; 
+    border-bottom: 4px solid silver;
+}
+ol.bookStatus li.bookStatus-ip {
+    color: black; 
+    border-bottom: 4px solid black;
+}
+
+/*
+ * icons
+ */
+ol.bookStatus li:after {
+    content: "\00a0\00a0";
+}
+ol.bookStatus li:before {
+    position: relative;
+    bottom: -2.5em;
+    float: left;
+    left: 50%;
+    line-height: 1em;
+}
+ol.bookStatus li.bookStatus-done:before {
+    content: "\2713";
+    color: white;
+    background-color: blue;
+    height: 1.2em;
+    width: 1.2em;
+    line-height: 1.2em;
+    border: none;
+    border-radius: 1.2em;
+}
+ol.bookStatus li.bookStatus-todo:before {
+    content: "\039F";
+    color: silver;
+    background-color: white;
+    font-size: 1.5em;
+    bottom: -1.6em;
+}
+ol.bookStatus li.bookStatus-ip:before {
+    content: "\039F";
+    color: black;
+    background-color: white;
+    font-size: 1.5em;
+    bottom: -1.6em;
+}
+ 
+ 
+form input[type='number']{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*
+ * discount
+ */
+.priceTag .price {
+	text-decoration: line-through;
+}
+
+.priceTag .discount {
+	color: red;
+}

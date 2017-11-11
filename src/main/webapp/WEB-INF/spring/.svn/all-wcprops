@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/581/proxystat/src/main/webapp/WEB-INF/spring
+END
+database-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/proxystat/src/main/webapp/WEB-INF/spring/database-context.xml
+END
+ioc-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/41/proxystat/src/main/webapp/WEB-INF/spring/ioc-context.xml
+END
+security-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/526/proxystat/src/main/webapp/WEB-INF/spring/security-context.xml
+END

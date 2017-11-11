@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/603/proxystat/src/main/java/com/dreamit/proxystat/model/controllers
+END
+AdministrationSportPartnerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/304/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/AdministrationSportPartnerController.java
+END
+AdministrationStatisticsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/495/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/AdministrationStatisticsController.java
+END
+SendMailContactController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/568/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/SendMailContactController.java
+END
+SecurityController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/523/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/SecurityController.java
+END
+AdministrationTrainingPartnerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/554/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/AdministrationTrainingPartnerController.java
+END
+AdministrationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/592/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/AdministrationController.java
+END
+AccountController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/603/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/AccountController.java
+END
+RatingHomeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/423/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/RatingHomeController.java
+END
+BookingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/544/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/BookingController.java
+END
+AdministrationPassMechanicPartnerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/569/proxystat/src/main/java/com/dreamit/proxystat/model/controllers/AdministrationPassMechanicPartnerController.java
+END

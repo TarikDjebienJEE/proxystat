@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/434/proxystat/src/main/java/com/dreamit/proxystat/model/exceptions
+END
+TimeframeAlreadyUseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/434/proxystat/src/main/java/com/dreamit/proxystat/model/exceptions/TimeframeAlreadyUseException.java
+END
+MissingRequiredInformationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/156/proxystat/src/main/java/com/dreamit/proxystat/model/exceptions/MissingRequiredInformationException.java
+END
+EndDateBeforeStartDateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/434/proxystat/src/main/java/com/dreamit/proxystat/model/exceptions/EndDateBeforeStartDateException.java
+END

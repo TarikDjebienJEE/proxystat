@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/563/proxystat/src/main/java/com/dreamit/proxystat/model/dao/pattern
+END
+GenericDataAccessObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/23/proxystat/src/main/java/com/dreamit/proxystat/model/dao/pattern/GenericDataAccessObject.java
+END
+GenericJpaDataAccessObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/563/proxystat/src/main/java/com/dreamit/proxystat/model/dao/pattern/GenericJpaDataAccessObject.java
+END

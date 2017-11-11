@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl
+END
+CourseFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/527/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/CourseFactoryImpl.java
+END
+MessageMailFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/109/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/MessageMailFactoryImpl.java
+END
+CategoryFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/254/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/CategoryFactoryImpl.java
+END
+StandardPeriodFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/459/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/StandardPeriodFactoryImpl.java
+END
+SeasonFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/437/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/SeasonFactoryImpl.java
+END
+MechanicPartnerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/MechanicPartnerFactoryImpl.java
+END
+PriceFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/497/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/PriceFactoryImpl.java
+END
+TrackFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/161/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/TrackFactoryImpl.java
+END
+UserFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/592/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/UserFactoryImpl.java
+END
+EquipmentFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/270/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/EquipmentFactoryImpl.java
+END
+TrainingPartnerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/TrainingPartnerFactoryImpl.java
+END
+PassFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/205/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/PassFactoryImpl.java
+END
+FlatTypeFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/517/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/FlatTypeFactoryImpl.java
+END
+PartnerUserFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/592/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/PartnerUserFactoryImpl.java
+END
+SportPartnerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/SportPartnerFactoryImpl.java
+END
+ServiceFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/254/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/ServiceFactoryImpl.java
+END
+OptionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/582/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/OptionFactoryImpl.java
+END
+HolidayPeriodFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/459/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/HolidayPeriodFactoryImpl.java
+END
+FlatFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/517/proxystat/src/main/java/com/dreamit/proxystat/model/factory/impl/FlatFactoryImpl.java
+END

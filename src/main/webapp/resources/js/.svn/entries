@@ -1,0 +1,40 @@
+10
+
+dir
+512
+https://dream-it-proxystat-gestion.googlecode.com/svn/proxystat/src/main/webapp/resources/js
+https://dream-it-proxystat-gestion.googlecode.com/svn
+
+
+
+2013-04-27T19:56:32.359288Z
+489
+rsitrakaeric@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dde7233c-fa56-e716-5f1e-8c7879fe6a47
+
+dataTables
+dir
+
+jqplot
+dir
+
+jquery
+dir
+
+star-rating
+dir
+

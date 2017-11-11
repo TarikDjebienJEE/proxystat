@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:beans="http://www.springframework.org/schema/beans"
+	xsi:schemaLocation="
+             http://www.springframework.org/schema/beans
+             http://www.springframework.org/schema/beans/spring-beans.xsd
+             http://www.springframework.org/schema/security
+             http://www.springframework.org/schema/security/spring-security.xsd">
+
+	<http auto-config="true" use-expressions="true">
+		
+		<form-login 
+			login-page="/home.security" 
+		    default-target-url="/loginValid.security"
+		    authentication-failure-url="/loginInvalid.security"
+		/>
+		
+		<logout invalidate-session="true" />
+		
+		<!-- Les URLS que l'on ne doit PAS securisee -->
+		<intercept-url pattern="/home.security" 				access="permitAll" />
+		<intercept-url pattern="/loginInvalid.security" 		access="permitAll" />
+		<intercept-url pattern="/returnViewContact.contact" 	access="permitAll" />
+		<intercept-url pattern="/sendMail.contact" 				access="permitAll" />
+		<intercept-url pattern="/creation.customer" 			access="permitAll" />
+		<intercept-url pattern="/create.customer" 				access="permitAll" />
+		<intercept-url pattern="/showFirstsRatings.rate" 		access="permitAll" />
+		<intercept-url pattern="/showAllRatings.rate" 			access="permitAll" />
+		<intercept-url pattern="/showServiceRatings.rate" 		access="permitAll" />
+		
+		<!-- Les URLs que l'on doit securisee -->
+		<intercept-url pattern="/*.adminSportPartner"           access="hasRole('ROLE_PARTNER_SPORT')"/>
+		<intercept-url pattern="/*.adminMechanicPartner"        access="hasRole('ROLE_PARTNER_PASS')"/>
+		<intercept-url pattern="/*.adminTrainingPartner"        access="hasRole('ROLE_PARTNER_TRAINING')"/>
+		<intercept-url pattern="/*.admin"        				access="hasRole('ROLE_ADMIN')"/>
+		<intercept-url pattern="/adminRatings.rate"           	access="hasRole('ROLE_ADMIN')"/>
+		<intercept-url pattern="/*" 							access="isAuthenticated()" />
+	</http>
+
+	<authentication-manager>
+		<authentication-provider>
+			<jdbc-user-service data-source-ref="dataSource"
+			users-by-username-query="
+		      select username, password, enabled 
+		      from users where username=?" 
+		    authorities-by-username-query="
+		      select u.username, ur.authority from users u, user_roles ur 
+		      where u.user_id = ur.user_id and u.username =?"
+			/>
+		</authentication-provider>
+	</authentication-manager>
+
+</beans:beans>
